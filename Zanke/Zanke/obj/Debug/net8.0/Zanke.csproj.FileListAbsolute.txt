@@ -1,0 +1,15 @@
+C:\PRO12026\Zanke\Zanke\bin\Debug\net8.0\Zanke.exe
+C:\PRO12026\Zanke\Zanke\bin\Debug\net8.0\Zanke.deps.json
+C:\PRO12026\Zanke\Zanke\bin\Debug\net8.0\Zanke.runtimeconfig.json
+C:\PRO12026\Zanke\Zanke\bin\Debug\net8.0\Zanke.dll
+C:\PRO12026\Zanke\Zanke\bin\Debug\net8.0\Zanke.pdb
+C:\PRO12026\Zanke\Zanke\obj\Debug\net8.0\Zanke.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\Zanke\Zanke\obj\Debug\net8.0\Zanke.AssemblyInfoInputs.cache
+C:\PRO12026\Zanke\Zanke\obj\Debug\net8.0\Zanke.AssemblyInfo.cs
+C:\PRO12026\Zanke\Zanke\obj\Debug\net8.0\Zanke.csproj.CoreCompileInputs.cache
+C:\PRO12026\Zanke\Zanke\obj\Debug\net8.0\Zanke.sourcelink.json
+C:\PRO12026\Zanke\Zanke\obj\Debug\net8.0\Zanke.dll
+C:\PRO12026\Zanke\Zanke\obj\Debug\net8.0\refint\Zanke.dll
+C:\PRO12026\Zanke\Zanke\obj\Debug\net8.0\Zanke.pdb
+C:\PRO12026\Zanke\Zanke\obj\Debug\net8.0\Zanke.genruntimeconfig.cache
+C:\PRO12026\Zanke\Zanke\obj\Debug\net8.0\ref\Zanke.dll

@@ -1,0 +1,15 @@
+C:\PRO12026\Vnosi\Vnosi\bin\Debug\net8.0\Vnosi.exe
+C:\PRO12026\Vnosi\Vnosi\bin\Debug\net8.0\Vnosi.deps.json
+C:\PRO12026\Vnosi\Vnosi\bin\Debug\net8.0\Vnosi.runtimeconfig.json
+C:\PRO12026\Vnosi\Vnosi\bin\Debug\net8.0\Vnosi.dll
+C:\PRO12026\Vnosi\Vnosi\bin\Debug\net8.0\Vnosi.pdb
+C:\PRO12026\Vnosi\Vnosi\obj\Debug\net8.0\Vnosi.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\Vnosi\Vnosi\obj\Debug\net8.0\Vnosi.AssemblyInfoInputs.cache
+C:\PRO12026\Vnosi\Vnosi\obj\Debug\net8.0\Vnosi.AssemblyInfo.cs
+C:\PRO12026\Vnosi\Vnosi\obj\Debug\net8.0\Vnosi.csproj.CoreCompileInputs.cache
+C:\PRO12026\Vnosi\Vnosi\obj\Debug\net8.0\Vnosi.sourcelink.json
+C:\PRO12026\Vnosi\Vnosi\obj\Debug\net8.0\Vnosi.dll
+C:\PRO12026\Vnosi\Vnosi\obj\Debug\net8.0\refint\Vnosi.dll
+C:\PRO12026\Vnosi\Vnosi\obj\Debug\net8.0\Vnosi.pdb
+C:\PRO12026\Vnosi\Vnosi\obj\Debug\net8.0\Vnosi.genruntimeconfig.cache
+C:\PRO12026\Vnosi\Vnosi\obj\Debug\net8.0\ref\Vnosi.dll

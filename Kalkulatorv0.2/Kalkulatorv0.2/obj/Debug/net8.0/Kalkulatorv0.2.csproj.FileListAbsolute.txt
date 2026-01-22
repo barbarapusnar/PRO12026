@@ -1,0 +1,15 @@
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\bin\Debug\net8.0\Kalkulatorv0.2.exe
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\bin\Debug\net8.0\Kalkulatorv0.2.deps.json
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\bin\Debug\net8.0\Kalkulatorv0.2.runtimeconfig.json
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\bin\Debug\net8.0\Kalkulatorv0.2.dll
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\bin\Debug\net8.0\Kalkulatorv0.2.pdb
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\obj\Debug\net8.0\Kalkulatorv0.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\obj\Debug\net8.0\Kalkulatorv0.2.AssemblyInfoInputs.cache
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\obj\Debug\net8.0\Kalkulatorv0.2.AssemblyInfo.cs
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\obj\Debug\net8.0\Kalkulatorv0.2.csproj.CoreCompileInputs.cache
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\obj\Debug\net8.0\Kalkulatorv0.2.sourcelink.json
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\obj\Debug\net8.0\Kalkulatorv0.2.dll
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\obj\Debug\net8.0\refint\Kalkulatorv0.2.dll
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\obj\Debug\net8.0\Kalkulatorv0.2.pdb
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\obj\Debug\net8.0\Kalkulatorv0.2.genruntimeconfig.cache
+C:\PRO12026\Kalkulatorv0.2\Kalkulatorv0.2\obj\Debug\net8.0\ref\Kalkulatorv0.2.dll

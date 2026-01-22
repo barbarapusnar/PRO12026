@@ -1,0 +1,15 @@
+C:\PRO12026\Gostilne\Gostilne\bin\Debug\net8.0\Gostilne.exe
+C:\PRO12026\Gostilne\Gostilne\bin\Debug\net8.0\Gostilne.deps.json
+C:\PRO12026\Gostilne\Gostilne\bin\Debug\net8.0\Gostilne.runtimeconfig.json
+C:\PRO12026\Gostilne\Gostilne\bin\Debug\net8.0\Gostilne.dll
+C:\PRO12026\Gostilne\Gostilne\bin\Debug\net8.0\Gostilne.pdb
+C:\PRO12026\Gostilne\Gostilne\obj\Debug\net8.0\Gostilne.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\Gostilne\Gostilne\obj\Debug\net8.0\Gostilne.AssemblyInfoInputs.cache
+C:\PRO12026\Gostilne\Gostilne\obj\Debug\net8.0\Gostilne.AssemblyInfo.cs
+C:\PRO12026\Gostilne\Gostilne\obj\Debug\net8.0\Gostilne.csproj.CoreCompileInputs.cache
+C:\PRO12026\Gostilne\Gostilne\obj\Debug\net8.0\Gostilne.sourcelink.json
+C:\PRO12026\Gostilne\Gostilne\obj\Debug\net8.0\Gostilne.dll
+C:\PRO12026\Gostilne\Gostilne\obj\Debug\net8.0\refint\Gostilne.dll
+C:\PRO12026\Gostilne\Gostilne\obj\Debug\net8.0\Gostilne.pdb
+C:\PRO12026\Gostilne\Gostilne\obj\Debug\net8.0\Gostilne.genruntimeconfig.cache
+C:\PRO12026\Gostilne\Gostilne\obj\Debug\net8.0\ref\Gostilne.dll

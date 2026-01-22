@@ -1,0 +1,15 @@
+C:\PRO12026\Spremenljivke\Spremenljivke\bin\Debug\net8.0\Spremenljivke.exe
+C:\PRO12026\Spremenljivke\Spremenljivke\bin\Debug\net8.0\Spremenljivke.deps.json
+C:\PRO12026\Spremenljivke\Spremenljivke\bin\Debug\net8.0\Spremenljivke.runtimeconfig.json
+C:\PRO12026\Spremenljivke\Spremenljivke\bin\Debug\net8.0\Spremenljivke.dll
+C:\PRO12026\Spremenljivke\Spremenljivke\bin\Debug\net8.0\Spremenljivke.pdb
+C:\PRO12026\Spremenljivke\Spremenljivke\obj\Debug\net8.0\Spremenljivke.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\Spremenljivke\Spremenljivke\obj\Debug\net8.0\Spremenljivke.AssemblyInfoInputs.cache
+C:\PRO12026\Spremenljivke\Spremenljivke\obj\Debug\net8.0\Spremenljivke.AssemblyInfo.cs
+C:\PRO12026\Spremenljivke\Spremenljivke\obj\Debug\net8.0\Spremenljivke.csproj.CoreCompileInputs.cache
+C:\PRO12026\Spremenljivke\Spremenljivke\obj\Debug\net8.0\Spremenljivke.sourcelink.json
+C:\PRO12026\Spremenljivke\Spremenljivke\obj\Debug\net8.0\Spremenljivke.dll
+C:\PRO12026\Spremenljivke\Spremenljivke\obj\Debug\net8.0\refint\Spremenljivke.dll
+C:\PRO12026\Spremenljivke\Spremenljivke\obj\Debug\net8.0\Spremenljivke.pdb
+C:\PRO12026\Spremenljivke\Spremenljivke\obj\Debug\net8.0\Spremenljivke.genruntimeconfig.cache
+C:\PRO12026\Spremenljivke\Spremenljivke\obj\Debug\net8.0\ref\Spremenljivke.dll
