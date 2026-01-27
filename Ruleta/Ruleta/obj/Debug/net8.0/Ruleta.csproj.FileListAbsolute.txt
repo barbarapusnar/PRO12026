@@ -1,0 +1,15 @@
+C:\PRO12026\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.exe
+C:\PRO12026\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.deps.json
+C:\PRO12026\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.runtimeconfig.json
+C:\PRO12026\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.dll
+C:\PRO12026\Ruleta\Ruleta\bin\Debug\net8.0\Ruleta.pdb
+C:\PRO12026\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.AssemblyInfoInputs.cache
+C:\PRO12026\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.AssemblyInfo.cs
+C:\PRO12026\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.csproj.CoreCompileInputs.cache
+C:\PRO12026\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.sourcelink.json
+C:\PRO12026\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.dll
+C:\PRO12026\Ruleta\Ruleta\obj\Debug\net8.0\refint\Ruleta.dll
+C:\PRO12026\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.pdb
+C:\PRO12026\Ruleta\Ruleta\obj\Debug\net8.0\Ruleta.genruntimeconfig.cache
+C:\PRO12026\Ruleta\Ruleta\obj\Debug\net8.0\ref\Ruleta.dll
