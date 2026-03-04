@@ -1,0 +1,15 @@
+C:\PRO12026\Nogomet\Nogomet\bin\Debug\net8.0\Nogomet.exe
+C:\PRO12026\Nogomet\Nogomet\bin\Debug\net8.0\Nogomet.deps.json
+C:\PRO12026\Nogomet\Nogomet\bin\Debug\net8.0\Nogomet.runtimeconfig.json
+C:\PRO12026\Nogomet\Nogomet\bin\Debug\net8.0\Nogomet.dll
+C:\PRO12026\Nogomet\Nogomet\bin\Debug\net8.0\Nogomet.pdb
+C:\PRO12026\Nogomet\Nogomet\obj\Debug\net8.0\Nogomet.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\Nogomet\Nogomet\obj\Debug\net8.0\Nogomet.AssemblyInfoInputs.cache
+C:\PRO12026\Nogomet\Nogomet\obj\Debug\net8.0\Nogomet.AssemblyInfo.cs
+C:\PRO12026\Nogomet\Nogomet\obj\Debug\net8.0\Nogomet.csproj.CoreCompileInputs.cache
+C:\PRO12026\Nogomet\Nogomet\obj\Debug\net8.0\Nogomet.sourcelink.json
+C:\PRO12026\Nogomet\Nogomet\obj\Debug\net8.0\Nogomet.dll
+C:\PRO12026\Nogomet\Nogomet\obj\Debug\net8.0\refint\Nogomet.dll
+C:\PRO12026\Nogomet\Nogomet\obj\Debug\net8.0\Nogomet.pdb
+C:\PRO12026\Nogomet\Nogomet\obj\Debug\net8.0\Nogomet.genruntimeconfig.cache
+C:\PRO12026\Nogomet\Nogomet\obj\Debug\net8.0\ref\Nogomet.dll

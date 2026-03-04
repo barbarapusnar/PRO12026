@@ -1,0 +1,15 @@
+C:\PRO12026\Bankomat\Bankomat\bin\Debug\net8.0\Bankomat.exe
+C:\PRO12026\Bankomat\Bankomat\bin\Debug\net8.0\Bankomat.deps.json
+C:\PRO12026\Bankomat\Bankomat\bin\Debug\net8.0\Bankomat.runtimeconfig.json
+C:\PRO12026\Bankomat\Bankomat\bin\Debug\net8.0\Bankomat.dll
+C:\PRO12026\Bankomat\Bankomat\bin\Debug\net8.0\Bankomat.pdb
+C:\PRO12026\Bankomat\Bankomat\obj\Debug\net8.0\Bankomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\Bankomat\Bankomat\obj\Debug\net8.0\Bankomat.AssemblyInfoInputs.cache
+C:\PRO12026\Bankomat\Bankomat\obj\Debug\net8.0\Bankomat.AssemblyInfo.cs
+C:\PRO12026\Bankomat\Bankomat\obj\Debug\net8.0\Bankomat.csproj.CoreCompileInputs.cache
+C:\PRO12026\Bankomat\Bankomat\obj\Debug\net8.0\Bankomat.sourcelink.json
+C:\PRO12026\Bankomat\Bankomat\obj\Debug\net8.0\Bankomat.dll
+C:\PRO12026\Bankomat\Bankomat\obj\Debug\net8.0\refint\Bankomat.dll
+C:\PRO12026\Bankomat\Bankomat\obj\Debug\net8.0\Bankomat.pdb
+C:\PRO12026\Bankomat\Bankomat\obj\Debug\net8.0\Bankomat.genruntimeconfig.cache
+C:\PRO12026\Bankomat\Bankomat\obj\Debug\net8.0\ref\Bankomat.dll

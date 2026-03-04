@@ -1,0 +1,15 @@
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\bin\Debug\net8.0\PrimeriRazredov.exe
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\bin\Debug\net8.0\PrimeriRazredov.deps.json
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\bin\Debug\net8.0\PrimeriRazredov.runtimeconfig.json
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\bin\Debug\net8.0\PrimeriRazredov.dll
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\bin\Debug\net8.0\PrimeriRazredov.pdb
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\obj\Debug\net8.0\PrimeriRazredov.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\obj\Debug\net8.0\PrimeriRazredov.AssemblyInfoInputs.cache
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\obj\Debug\net8.0\PrimeriRazredov.AssemblyInfo.cs
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\obj\Debug\net8.0\PrimeriRazredov.csproj.CoreCompileInputs.cache
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\obj\Debug\net8.0\PrimeriRazredov.sourcelink.json
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\obj\Debug\net8.0\PrimeriRazredov.dll
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\obj\Debug\net8.0\refint\PrimeriRazredov.dll
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\obj\Debug\net8.0\PrimeriRazredov.pdb
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\obj\Debug\net8.0\PrimeriRazredov.genruntimeconfig.cache
+C:\PRO12026\PrimeriRazredov\PrimeriRazredov\obj\Debug\net8.0\ref\PrimeriRazredov.dll

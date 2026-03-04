@@ -1,0 +1,15 @@
+C:\PRO12026\Razredi\Razredi\bin\Debug\net8.0\Razredi.exe
+C:\PRO12026\Razredi\Razredi\bin\Debug\net8.0\Razredi.deps.json
+C:\PRO12026\Razredi\Razredi\bin\Debug\net8.0\Razredi.runtimeconfig.json
+C:\PRO12026\Razredi\Razredi\bin\Debug\net8.0\Razredi.dll
+C:\PRO12026\Razredi\Razredi\bin\Debug\net8.0\Razredi.pdb
+C:\PRO12026\Razredi\Razredi\obj\Debug\net8.0\Razredi.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\Razredi\Razredi\obj\Debug\net8.0\Razredi.AssemblyInfoInputs.cache
+C:\PRO12026\Razredi\Razredi\obj\Debug\net8.0\Razredi.AssemblyInfo.cs
+C:\PRO12026\Razredi\Razredi\obj\Debug\net8.0\Razredi.csproj.CoreCompileInputs.cache
+C:\PRO12026\Razredi\Razredi\obj\Debug\net8.0\Razredi.sourcelink.json
+C:\PRO12026\Razredi\Razredi\obj\Debug\net8.0\Razredi.dll
+C:\PRO12026\Razredi\Razredi\obj\Debug\net8.0\refint\Razredi.dll
+C:\PRO12026\Razredi\Razredi\obj\Debug\net8.0\Razredi.pdb
+C:\PRO12026\Razredi\Razredi\obj\Debug\net8.0\Razredi.genruntimeconfig.cache
+C:\PRO12026\Razredi\Razredi\obj\Debug\net8.0\ref\Razredi.dll

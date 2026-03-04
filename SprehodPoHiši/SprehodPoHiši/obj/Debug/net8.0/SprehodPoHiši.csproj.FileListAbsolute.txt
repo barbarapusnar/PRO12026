@@ -1,0 +1,15 @@
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\bin\Debug\net8.0\SprehodPoHiši.exe
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\bin\Debug\net8.0\SprehodPoHiši.deps.json
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\bin\Debug\net8.0\SprehodPoHiši.runtimeconfig.json
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\bin\Debug\net8.0\SprehodPoHiši.dll
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\bin\Debug\net8.0\SprehodPoHiši.pdb
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\obj\Debug\net8.0\SprehodPoHiši.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\obj\Debug\net8.0\SprehodPoHiši.AssemblyInfoInputs.cache
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\obj\Debug\net8.0\SprehodPoHiši.AssemblyInfo.cs
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\obj\Debug\net8.0\SprehodPoHiši.csproj.CoreCompileInputs.cache
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\obj\Debug\net8.0\SprehodPoHiši.sourcelink.json
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\obj\Debug\net8.0\SprehodPoHiši.dll
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\obj\Debug\net8.0\refint\SprehodPoHiši.dll
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\obj\Debug\net8.0\SprehodPoHiši.pdb
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\obj\Debug\net8.0\SprehodPoHiši.genruntimeconfig.cache
+C:\PRO12026\SprehodPoHiši\SprehodPoHiši\obj\Debug\net8.0\ref\SprehodPoHiši.dll

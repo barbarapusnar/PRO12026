@@ -1,0 +1,15 @@
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\bin\Debug\net8.0\KalkulatorOcenV1.0.exe
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\bin\Debug\net8.0\KalkulatorOcenV1.0.deps.json
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\bin\Debug\net8.0\KalkulatorOcenV1.0.runtimeconfig.json
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\bin\Debug\net8.0\KalkulatorOcenV1.0.dll
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\bin\Debug\net8.0\KalkulatorOcenV1.0.pdb
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\obj\Debug\net8.0\KalkulatorOcenV1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\obj\Debug\net8.0\KalkulatorOcenV1.0.AssemblyInfoInputs.cache
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\obj\Debug\net8.0\KalkulatorOcenV1.0.AssemblyInfo.cs
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\obj\Debug\net8.0\KalkulatorOcenV1.0.csproj.CoreCompileInputs.cache
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\obj\Debug\net8.0\KalkulatorOcenV1.0.sourcelink.json
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\obj\Debug\net8.0\KalkulatorOcenV1.0.dll
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\obj\Debug\net8.0\refint\KalkulatorOcenV1.0.dll
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\obj\Debug\net8.0\KalkulatorOcenV1.0.pdb
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\obj\Debug\net8.0\KalkulatorOcenV1.0.genruntimeconfig.cache
+C:\PRO12026\KalkulatorOcenV1.0\KalkulatorOcenV1.0\obj\Debug\net8.0\ref\KalkulatorOcenV1.0.dll

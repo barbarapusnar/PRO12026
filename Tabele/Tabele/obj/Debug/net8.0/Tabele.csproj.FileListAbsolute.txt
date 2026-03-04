@@ -1,0 +1,15 @@
+C:\PRO12026\Tabele\Tabele\bin\Debug\net8.0\Tabele.exe
+C:\PRO12026\Tabele\Tabele\bin\Debug\net8.0\Tabele.deps.json
+C:\PRO12026\Tabele\Tabele\bin\Debug\net8.0\Tabele.runtimeconfig.json
+C:\PRO12026\Tabele\Tabele\bin\Debug\net8.0\Tabele.dll
+C:\PRO12026\Tabele\Tabele\bin\Debug\net8.0\Tabele.pdb
+C:\PRO12026\Tabele\Tabele\obj\Debug\net8.0\Tabele.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\Tabele\Tabele\obj\Debug\net8.0\Tabele.AssemblyInfoInputs.cache
+C:\PRO12026\Tabele\Tabele\obj\Debug\net8.0\Tabele.AssemblyInfo.cs
+C:\PRO12026\Tabele\Tabele\obj\Debug\net8.0\Tabele.csproj.CoreCompileInputs.cache
+C:\PRO12026\Tabele\Tabele\obj\Debug\net8.0\Tabele.sourcelink.json
+C:\PRO12026\Tabele\Tabele\obj\Debug\net8.0\Tabele.dll
+C:\PRO12026\Tabele\Tabele\obj\Debug\net8.0\refint\Tabele.dll
+C:\PRO12026\Tabele\Tabele\obj\Debug\net8.0\Tabele.pdb
+C:\PRO12026\Tabele\Tabele\obj\Debug\net8.0\Tabele.genruntimeconfig.cache
+C:\PRO12026\Tabele\Tabele\obj\Debug\net8.0\ref\Tabele.dll

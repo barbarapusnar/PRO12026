@@ -1,0 +1,15 @@
+C:\PRO12026\Metode\Metode\bin\Debug\net8.0\Metode.exe
+C:\PRO12026\Metode\Metode\bin\Debug\net8.0\Metode.deps.json
+C:\PRO12026\Metode\Metode\bin\Debug\net8.0\Metode.runtimeconfig.json
+C:\PRO12026\Metode\Metode\bin\Debug\net8.0\Metode.dll
+C:\PRO12026\Metode\Metode\bin\Debug\net8.0\Metode.pdb
+C:\PRO12026\Metode\Metode\obj\Debug\net8.0\Metode.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\Metode\Metode\obj\Debug\net8.0\Metode.AssemblyInfoInputs.cache
+C:\PRO12026\Metode\Metode\obj\Debug\net8.0\Metode.AssemblyInfo.cs
+C:\PRO12026\Metode\Metode\obj\Debug\net8.0\Metode.csproj.CoreCompileInputs.cache
+C:\PRO12026\Metode\Metode\obj\Debug\net8.0\Metode.sourcelink.json
+C:\PRO12026\Metode\Metode\obj\Debug\net8.0\Metode.dll
+C:\PRO12026\Metode\Metode\obj\Debug\net8.0\refint\Metode.dll
+C:\PRO12026\Metode\Metode\obj\Debug\net8.0\Metode.pdb
+C:\PRO12026\Metode\Metode\obj\Debug\net8.0\Metode.genruntimeconfig.cache
+C:\PRO12026\Metode\Metode\obj\Debug\net8.0\ref\Metode.dll

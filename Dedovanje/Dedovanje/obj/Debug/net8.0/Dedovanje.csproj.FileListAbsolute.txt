@@ -1,0 +1,15 @@
+C:\PRO12026\Dedovanje\Dedovanje\bin\Debug\net8.0\Dedovanje.exe
+C:\PRO12026\Dedovanje\Dedovanje\bin\Debug\net8.0\Dedovanje.deps.json
+C:\PRO12026\Dedovanje\Dedovanje\bin\Debug\net8.0\Dedovanje.runtimeconfig.json
+C:\PRO12026\Dedovanje\Dedovanje\bin\Debug\net8.0\Dedovanje.dll
+C:\PRO12026\Dedovanje\Dedovanje\bin\Debug\net8.0\Dedovanje.pdb
+C:\PRO12026\Dedovanje\Dedovanje\obj\Debug\net8.0\Dedovanje.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\Dedovanje\Dedovanje\obj\Debug\net8.0\Dedovanje.AssemblyInfoInputs.cache
+C:\PRO12026\Dedovanje\Dedovanje\obj\Debug\net8.0\Dedovanje.AssemblyInfo.cs
+C:\PRO12026\Dedovanje\Dedovanje\obj\Debug\net8.0\Dedovanje.csproj.CoreCompileInputs.cache
+C:\PRO12026\Dedovanje\Dedovanje\obj\Debug\net8.0\Dedovanje.sourcelink.json
+C:\PRO12026\Dedovanje\Dedovanje\obj\Debug\net8.0\Dedovanje.dll
+C:\PRO12026\Dedovanje\Dedovanje\obj\Debug\net8.0\refint\Dedovanje.dll
+C:\PRO12026\Dedovanje\Dedovanje\obj\Debug\net8.0\Dedovanje.pdb
+C:\PRO12026\Dedovanje\Dedovanje\obj\Debug\net8.0\Dedovanje.genruntimeconfig.cache
+C:\PRO12026\Dedovanje\Dedovanje\obj\Debug\net8.0\ref\Dedovanje.dll
